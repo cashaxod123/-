@@ -284,3 +284,118 @@ body {
 .hotel__gallery a {
     margin-top: 50px;
 }
+
+.price {
+    background-image: url(../images/price-bg.png);
+    background-repeat: no-repeat;
+    background-position: center right 16%;
+}
+
+.page-section {}
+
+.container {}
+
+.price__title {}
+
+.title {}
+
+.price__inner {
+    display: flex;
+}
+
+.price__on {
+    margin-right: 70px;
+    width: 530px;
+}
+
+.price__on-title,
+.price__off-title {
+    line-height: 28px;
+    margin-bottom: 50px;
+    font-style: 24px;
+    font-family: "RobotoCondensed-Regular";
+}
+
+.rice__list {}
+
+.price__list-item {
+    margin-bottom: 20px;
+}
+
+.price__off {}
+
+.price__off-title {}
+
+.contacts {}
+
+.page-section {}
+
+.container {}
+
+.contacts__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact__content {
+    text-align: center;
+}
+
+.contacts__info {}
+
+.contacts__date,
+.contacts__price {
+    font-family: "balqis";
+    color: #e2ab3f;
+    font-size: 96px;
+    line-height: 100px;
+    font-weight: 300;
+}
+
+.contacts__date span,
+.contacts__price span {
+    line-height: 28px;
+    font-size: 24px;
+    color: #000;
+    font-family: "RobotoCondensed-LightItalic";
+    display: block;
+    margin-top: -10px;
+    margin-left: 205px;
+}
+
+.contacts__date {
+    margin-bottom: 20px;
+}
+
+.contacts__price {
+    margin-left: 120px;
+}
+
+.contacts__form {
+    max-width: 383px;
+    margin: 0 auto;
+}
+
+.contacts__form-title {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 50px;
+    font-family: "RobotoCondensed-Regular";
+}
+
+.contact__form-input {
+    border: 1px solid #e2ab3f;
+    display: block;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100%;
+    padding: 0 31px;
+}
+
+.contact__form-name {}
+
+.contact__form-phone {}
+
+.contact__form-btn {}
+
+.contacts__images {}
